@@ -1,0 +1,2 @@
+# Requires: circular-waiting
+# (Not available on PyPI)
